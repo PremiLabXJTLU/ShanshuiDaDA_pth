@@ -26,3 +26,12 @@ node newapp.js
 ```
 * Open [localhost:5000](http://localhost:5000/) in your browser
 * OR (Suggested!) Use ** a touch screen device eg.Tablet, Smart Phone etc.** to load the url and draw SHANSHUI from there. If you don't know how to, refer to this [instruction]().
+
+If you find the code useful for your research, please cite our paper:
+
+    @inproceedings{PremiLab,
+      title={An Interactive and Generative Approach for Chinese Shanshui Painting Document},
+      author={Le Zhou, Qiu-Feng Wang, Cheng-Hung Lo, Kaizhu Huang},
+      booktitle={The International Conference on Document Analysis and Recognition (ICDAR)},
+      year={2019}
+    }
